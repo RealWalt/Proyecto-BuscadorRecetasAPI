@@ -97,7 +97,7 @@ function iniciarApp() {
 
             resultado.appendChild(recetaContenedor)
 
-        //    console.log(recetaHeading)
+        //  console.log(recetaHeading)
         });
     }
 
